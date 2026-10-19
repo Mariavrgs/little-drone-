@@ -104,11 +104,4 @@ Dragonfly/
 ```
  
 ---
- 
-## Built By
- 
-**broccoli 🥦** — Solo hardware builder from Pakistan.
- 
-*Chasing what I love. GE0*
 
-'geo geo geo
