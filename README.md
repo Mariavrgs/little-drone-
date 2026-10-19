@@ -8,7 +8,7 @@
  
 ---
  
-# Dragonfly
+# little drone
  
 A custom all-in-one flight controller + ESC, built entirely from discrete ICs rather than premade modules, designed for me by me. Flight control and all 4 motor drivers live on a single 4-layer PCB, designed from scratch in KiCad.
  
